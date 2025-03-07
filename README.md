@@ -13,7 +13,7 @@ Real-time image upload & prediction in a Streamlit web app
 Optimized model with EarlyStopping & Learning Rate Scheduling
 
 **Key Technologies Used**
-TensorFlow/Keras (EfficientNetB0, MobileNetV2, ResNet50)
+TensorFlow/Keras (VGG16, MobileNetV2, ResNet50)
 Streamlit (Real-time Web App)
 OpenCV & PIL (Image Processing)
 Scikit-learn (Model Evaluation)
