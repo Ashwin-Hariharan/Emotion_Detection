@@ -6,7 +6,7 @@ This project implements emotion detection using transfer learning on grayscale i
 The best-performing model (ResNet50) achieved 64% accuracy and was saved for real-time inference.
 
 ** Features**
-Pretrained CNN models (EfficientNetB0, MobileNetV2, ResNet50)
+Pretrained CNN models (VGG16, MobileNetV2, ResNet50)
 Transfer learning with grayscale input support
 Data augmentation for improved generalization
 Real-time image upload & prediction in a Streamlit web app
